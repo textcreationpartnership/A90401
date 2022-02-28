@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Parliament, the Army, and all the wel-affected in the nation, who have been faithful to the good old cause.</title>
+            <author>Penington, Isaac, 1616-1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90401</idno>
+            <idno type="STC">Wing P1215</idno>
+            <idno type="STC">Thomason E983_21</idno>
+            <idno type="STC">ESTC R203316</idno>
+            <idno type="EEBO-CITATION">99863299</idno>
+            <idno type="PROQUEST">99863299</idno>
+            <idno type="VID">168582</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90401)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168582)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 146:E983[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Parliament, the Army, and all the wel-affected in the nation, who have been faithful to the good old cause.</title>
+                  <author>Penington, Isaac, 1616-1679.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J.M. for Giles Calvert, at the Black-Spread-Eagle near the west end of Pauls,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Isaac Penington the younger.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Signatures: A² .</note>
+                  <note>Annotation on Thomason copy: "May 20 1659".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:168582:1" rendition="simple:additions"/>
+            <head>To the <hi>Parliament,</hi> the <hi>Army,</hi> and all the <hi>Wel-affected</hi> in the Nati<g ref="char:EOLhyphen"/>on, who have been faithful to the <hi>Good Old Cauſe.</hi>
+            </head>
+            <p>THat there hath been a back-ſliding and turning aſide from the GOOD OLD CAUSE, even by the Army (who formerly were glorious Inſtruments in the hand of God) hath been lately confeſſed, and that they have cauſe, and deſire to take ſhame to themſelves.</p>
+            <p>Now that they may ſee the cauſe of ſhame that lies upon them, and may abaſe themſelves in the ſight of God, and before all the World, it behooves them to ſearch narrowly into their back-ſlidings, and conſider the fruits there<g ref="char:EOLhyphen"/>of, that they may be truly humbled, and turned from that Spirit which led them aſide, leſt any of them take advantage to make a feigned Confeſſion for their own ends, and fall afreſh to ſeek themſelves; and their own Intereſts, and not the <hi>God Old Cauſe</hi> ſingly, and nakedly, as in the ſight of the Lord.</p>
+            <p>Many bad fruits have grown from this Corrupt Spirit, and the cor<g ref="char:EOLhyphen"/>rupt courſe it hath run in theſe late years, which would be narrowly ſearched into, and conſidered of: Some few general ones I may mention.</p>
+            <p n="1">1. The Name of God hath been blaſphemed in the ſight of the whole Earth, and that holy Spirit and Power (which many hearts can witneſs was the Beginner and Carrier on of this Work) made a ſcoff and deriſion to the Enemies of Truth in theſe Nations, and in the Nations round a<g ref="char:EOLhyphen"/>bout, who watched to ſee the iſſue and reſult of theſe things. The Con<g ref="char:EOLhyphen"/>troverſie was very great and eminent, and drew many eyes upon it, the Lord was Appealed to on both ſides to decide it; and many know, That by his Preſence and Power in the Army, the Scale was turned, (even when they were very low, and cryed out for Prayers, and made large Pro<g ref="char:EOLhyphen"/>miſes in the day of their Diſtreſs.) Yea, the Lo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d did not deſert the Army, but heard their Prayers, and the Prayers of his People for them, carrying on the Deliverance, until he had given a perfect Victory into their hands. But then the Army deſerted the Lord; and juſt like men that were ruled by the Spirit of the World, forgot the Lord, and his Cauſe and Intereſt, and their fellow companions in the hard Travel and Service, and ſet up them<g ref="char:EOLhyphen"/>ſelves, and their own Intereſt, making their General the greateſt, and their Officers great. Thus the Cauſe was betrayed, the meaſure of it loſt, a Private, Particular, Selfiſh, Earthly, Corrupt Intereſt ſet up, and men
+<pb facs="tcp:168582:2"/>countenanced and advanced, not according to their Fidelity to the <hi>Good Old Cauſe,</hi> but according to their complyance with this new ſelfiſh Intereſt.</p>
+            <p n="2">2. The great work of God, both in theſe Nations, and in the World, hath hereby been turned backward. In theſe Nations, that Spirit which be<g ref="char:EOLhyphen"/>gan this Work (when at any time it hath appeared in ſimplicity and ſingle<g ref="char:EOLhyphen"/>neſs for the proſecution of it) hath been ſnibbed; what was built up for<g ref="char:EOLhyphen"/>merly, thrown down; and that which was thrown down, now again built up; ſo that the Face of the Nation was changed, and unrighteous ones came into place and power, and the innocent and upright (thoſe that feared God, and could not ſeek themſelves, or the pleaſing of men<g ref="char:punc">▪</g>) have been oppreſſed and cruſhed. And if the work was thus ſtopt in theſe Nations, its advan<g ref="char:EOLhyphen"/>tage of ſpreading further muſt needs be interrupted. God had raiſed up a Power againſt Oppreſſion, in which he eminently appeared, even to the dread of the Nations round about: and how far this Power ſhould have gone on in his work, by the Leadings of his Spirit, had they waited in his Council, kept to their Leader, and not turned aſide to another Spirit, and to other Ends and Intereſts, who can tell?</p>
+            <p n="3">3. Great and Vaſt Treaſures have been expended, for the maintaining of you in greatneſs in your black-ſlidings, and the poor have groaned to bear the burthen: and while ye have grown thus high, extravagant, and exceffive, many (who remained faithful) have wanted even that which was their due, and have undergone great hardſhips thereby.</p>
+            <p n="4">4. The Account of all the Blood which hath been ſhed lies ſomwhere. Was it for a thing of Nought? Was in of no Value? Nay, It was preci<g ref="char:EOLhyphen"/>ous in the ſight of the Lord; many (yea very many) in the ſingleneſs and ſimplicity of their hearts loſing their lives for the Cauſe. And yet how ſoon had you forgot all this, caſting it, and the Cauſe behinde your backs, and ſetting up your ſelves! Thus have ye grieved that good Spirit, which never gave you Victory over your Enemies for this end, that h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Name, and Cauſe, and Intereſt ſhould be forgotten, and yours grow great: but the Name of the Lord ſhould have been exalted by you, and ye ſhould have remained low and little, both in your own eyes, and in the eyes of others. But the Lord hath been Vailed by your Greatneſs, and that Vail lies upon him at this day: Read this in the true humility, and in the fear and dread of his great Name, who will be exalted over all, and whom no power or greatneſs on earth ſhall be able to hinder from ariſing. Remember theſe things, ô ye back-ſliding children, and be abaſed; that the Lord may forgive you, and may vouchſa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e yet once more to make uſe of you in his ſervice.</p>
+            <p>But I am jealous over you with a godly jealouſie, leſt ye ſhould confeſs, and turn back, not with an upright heart, but feignedly: and it ſo, then you will not lie flat in your ſpirits, either before the Lord, or before men, but will be keeping up the greatneſs ye have got in your back-ſlidings, and ſeeking your own intereſts, and ſelf-ends afreſh. There hath been often a naked, honeſt, ſimple, pure thing ſtirring in the Army, which the great ones (ſeeing ſome pre<g ref="char:EOLhyphen"/>ſent uſe of) fell in with, and improved for their own ends, but deſtroyed the thing it ſelf; ſo that it attained not to the bringing forth of that righteous liberty, and common good which it ſeemed to aim at (and did indeed aim
+<pb facs="tcp:168582:2"/>at in thoſe in whom the ſtirring did ariſe) but was made uſe of as an advantage to advance them in their particular Intereſts againſt their E<g ref="char:EOLhyphen"/>nemies, and ſo ſet them up. Have ye ſeen this uſe made formerly of ſuch lively ſtirrings in ſome, and ſuch fair pretenſes in others after righteouſness, liberty, and the Common good? Take heed of it now. Let not the pure ſtirrings after good, be betrayed into the ſelfiſh luſts and intereſts of your own corrupt hearts. Do not fall ſo haſtily to the work of Reformation nor be not ſo forward to propoſe things for ſettlement; but wait to be purged from that back-ſliding ſprit (which ſticks cloſer to you and makes you unfitter for this ſervice then you are aware) that you may come into a capacity of deſiring the Common good, and of being faithful in the proſecution of it; and put off your greatneſs and ſwelling honours that ye have contracted in the time of your back-ſlidings, and come at leaſt into an equal ballance with them that remained faithful. Are ye humbled before the Lord for your backſlidings, and yet keep your corrupt ſtandings? Is this true humiliation? Is this taking of ſhame to your ſelves? Ah, do not force the Lord to deal with you! do not force the Lord to ſtrip you, and manifeſt your ſhame! If it be truly in your hearts, that the work of the Lord ſhould go on, let ſuch be picked out who have not back ſlidden, and let them carry it on; and ſtand ye by a while, till it be made manifeſt that your hearts are changed, and there be a Teſtimony given to the Nation, that you are truly humbled, and become men of other ſpirits: For while this ſpirit remains in you, ye will be ſecretly for your ſelves, and cannot poſſibly be cordial, either to the Lord, or to the Nation, in the work of Reformation; but while you ſeem to be ſetting your hands to it, your hearts will be erring from it, and your endeavours will be to obſtruct thoſe whoſe hearts are entire and faithful to it.</p>
+            <p>Now to the Parliament, let me ſay this, Ye have one day more by the good hand of God, by the great mercy of God, ye have one day more; (not for your righteouſneſs, not for your fitneſs for the work; but for the unrighteouſ<g ref="char:EOLhyphen"/>neſs of that power, which would not go on with the Lords work, but bring back again to <hi>Egypt,</hi> hath the hand of the Lord been ſtretched forth againſt them.) Be not ſl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thful, be not ſelfiſh, be not wiſe in the fleſh: but know that Wiſedom which is to be your Guide and Leader, and let it be your wiſedom to follow. A Providence hath brought you together; let the ſame Providence lead you. Be ſingle and honeſt to the Nation, and upright hearted toward God; and if any ſtraights come, be not haſty, but wait for the manifeſtati<g ref="char:EOLhyphen"/>on of his Council, for the unvailing of his Arm to protect you. Let not the Army be your confidence. Do not any one thing to pleaſe the Army; much Jeſs a corrupt intereſt of a part of the Army; but apply your ſelves to do that which is truly juſt and righteous in the ſight of God, of the Army, and of all men. The Lord hath as it were new Created you, and given you a new Be<g ref="char:EOLhyphen"/>ing; look up to him to preſerve you, and apply your ſelves faithfully to his work, without ſelf-ends and intereſts in your ſelves, and againſt all ſelf-ends and intereſts in others, leaving it to his power to ſtand by you and p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve you therein; and do not joyn (through fear or favour) with that which is great and powerful, but with that which is ſingle and honeſt. Mind the ſtir<g ref="char:EOLhyphen"/>ring
+<pb facs="tcp:168582:3"/>of that Spirit in the Army, and in the Nation, which revived the <hi>Good Old Cauſe;</hi> and cheriſh it, and cleave to it: Mind likewiſe the Apoſtatizing Spirit, which would colour over the Apoſtacy, and make it ſeem as little as they could, and frown upon it, though in perſons never ſo great. Ye are in the place of God; reſpect not perſons, but righteouſneſs, and ye ſhall have honour, even that honour which will ſtand, when the vain honour and titles which corrupt man aſpires after, whereby his heart is lifted up above his bre<g ref="char:EOLhyphen"/>thren (which the King of <hi>Iſraels</hi> was not to be) ſhall fall to the ground, do men what they can. Open your eyes (that eye in you which alone can ſee the power that hath wrought this change) there is the Arm of Fleſh, and the Arm of the Lord before you, chuſe which you will cleave to. The Lord hath a work to do, a great work, and he will not want Inſtruments. Ye have a time of tryal, whether ye will become fit Inſtruments in the hand of the Lord; im<g ref="char:EOLhyphen"/>prove it in his fear and in his wiſedom; and do not think your ſelves ſecure, as ye can gain the preſent Powers on your ſide; but be ſingle to the Lord, and he will bring over the hearts of the Army and Nation to you. And take heed of your debates; let every man fear his own wiſedom and his own will, in every word he ſpeaks in the Houſe; for that which comes from ſelf, will be but for ſelf (though under a pretence it may ſeem to be for God) but purſue what is manifeſtly good and righteous, and not what the wiſedom of the Serpent can caſt a colour over, and make appear ſo.</p>
+            <p>To thoſe who have remained faithful in the Nation, and waited for this day, I have one word alſo. Keep your eye on the Lord; fix not your hopes on the Army, or on the Parliament; but look through them, to him who hath the power over them. Man is a vain, empty, fooliſh thing, there is no good to be expected from him. If the Lord appear in them, and they abide in his fear, and be guided by his council, they may be Inſtruments of good in his hand, otherwiſe they will prove but broken reeds; but he that waiteth on the Lord ſhall not be diſappointed, but ſhall meet with and receive the good in the Lords ſeaſon. The Lords mighty Power is at work, he ſnap<g ref="char:EOLhyphen"/>peth Inſtuments aſunder at his pleaſure. When they are wiſe, when they are ſtrong, when they are puft up in the imaginations of their hearts, he over<g ref="char:EOLhyphen"/>turneth them with his finger, and calleth up that which was not, that which the foot of Pride trampled upon. <hi>The Lord is known by the Judgment which he executeth; the wicked is ſnared in the work of his own hands.</hi> Wait on the Lord: If theſe alſo prove trecherous, his hand can overturn them alſo; and he will at length bring forth an Inſtrument, which his Soul can take plea<g ref="char:EOLhyphen"/>ſure in, and which he will make faithful to him in his work. O Nation of <hi>England,</hi> wait on the Lord! wait on the Lord, O my Soul!</p>
+            <closer>
+               <dateline>From <hi>Chaffont</hi> in <hi>Bucks,</hi> 
+                  <date>the 18. of the 3. mon. 1659.</date>
+               </dateline>
+               <signed>This from one who is a friend to the Com<g ref="char:EOLhyphen"/>mon-wealth, a lover of true Freedom, and deſires the good of all men. <hi>Iſaac Penington</hi> the younger.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. M.</hi> for <hi>Giles Calvert,</hi> at the Black <hi>Spread-Eagle</hi> near the Weſt end of <hi>Pauls,</hi> 1659.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
